@@ -1,0 +1,6 @@
+# FORTRAN
+*.a
+*.for
+*.o
+# Ignore output folder
+output/
